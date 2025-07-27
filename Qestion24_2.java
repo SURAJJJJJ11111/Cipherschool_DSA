@@ -5,7 +5,7 @@ public class Qestion24_2 {
         int deadline;
         int profit;
         Job(int deadline, int profit) {
-            this.deadline = deadline;
+            this.deadline = deadline; 
             this.profit = profit;
         }
     }
