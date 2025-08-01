@@ -8,7 +8,7 @@ public class Qestion24_2 {
             this.deadline = deadline; 
             this.profit = profit;
         }
-    }
+    }    
 
     public static int[] jobSequencing(int[] deadline, int[] profit) {
         int n = deadline.length;
@@ -58,3 +58,4 @@ public class Qestion24_2 {
     }
     
 }
+
