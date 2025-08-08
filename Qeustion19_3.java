@@ -14,6 +14,8 @@ public class Qeustion19_3 {
         for (int key : freqMap.keySet()) {
             System.out.println("Element " + key + " occurs " + freqMap.get(key) + " times.");
         }
+        
     }
     
 }
+
