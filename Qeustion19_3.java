@@ -7,7 +7,8 @@ public class Qeustion19_3 {
         for (int num : array) {
             if (freqMap.containsKey(num)) {
                 freqMap.put(num, freqMap.get(num) + 1);
-            } else {
+            } 
+            else {
                 freqMap.put(num, 1);
             }
         }
@@ -18,4 +19,5 @@ public class Qeustion19_3 {
     }
     
 }
+
 
